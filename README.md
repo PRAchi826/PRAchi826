@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PRAchi826
-- 👀 I’m interested in DSA
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in Web Development and DSA
+- 🌱 I’m currently learning Web Development
 - @patilprachi824@gmail.com
 
 <!---
